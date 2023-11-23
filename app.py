@@ -28,7 +28,7 @@ def hello_world():
         <h1>FELLOWSHIP OF THE RING IS BROKEN!</h1>
         <p>Mordor seeks the power of the rings.</p>
         <p>You are in the mines of Moria. Fight the Balrog.</p>
-        <img src = "/img.jpeg" />
+        <img src = "./static/img.jpeg" alt='hh' />
     </body>
     </html>
     '''
